@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\list\list\bin\Debug\net6.0\list.exe
+C:\Users\user\source\repos\list\list\bin\Debug\net6.0\list.deps.json
+C:\Users\user\source\repos\list\list\bin\Debug\net6.0\list.runtimeconfig.json
+C:\Users\user\source\repos\list\list\bin\Debug\net6.0\list.dll
+C:\Users\user\source\repos\list\list\bin\Debug\net6.0\list.pdb
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\list.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\list.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\list.AssemblyInfo.cs
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\list.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\list.dll
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\refint\list.dll
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\list.pdb
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\list.genruntimeconfig.cache
+C:\Users\user\source\repos\list\list\obj\Debug\net6.0\ref\list.dll
+C:\Users\artem\OneDrive\Рабочий стол\list\list\bin\Debug\net6.0\list.exe
+C:\Users\artem\OneDrive\Рабочий стол\list\list\bin\Debug\net6.0\list.deps.json
+C:\Users\artem\OneDrive\Рабочий стол\list\list\bin\Debug\net6.0\list.runtimeconfig.json
+C:\Users\artem\OneDrive\Рабочий стол\list\list\bin\Debug\net6.0\list.dll
+C:\Users\artem\OneDrive\Рабочий стол\list\list\bin\Debug\net6.0\list.pdb
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\list.csproj.AssemblyReference.cache
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\list.AssemblyInfoInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\list.AssemblyInfo.cs
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\list.csproj.CoreCompileInputs.cache
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\list.dll
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\refint\list.dll
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\list.pdb
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\list.genruntimeconfig.cache
+C:\Users\artem\OneDrive\Рабочий стол\list\list\obj\Debug\net6.0\ref\list.dll
